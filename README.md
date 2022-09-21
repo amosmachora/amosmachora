@@ -3,7 +3,6 @@ Hi there 👋 Im Amos 🐉.
 Im a full stack software developer 💯
 Im currently a student 📚 in the final year of campus 🎓
 
-
 🧨Tech Stack\
 ![github](https://camo.githubusercontent.com/ce7aea3ef843d8c5bf40de5525a6764a31e1cd1e53cbfcfa757d5fb6931dffdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731372e7376673f6c6f676f3d676974687562267374796c653d666c6174)\
 ![React](https://camo.githubusercontent.com/4cd63b0dea6d7fb2dc24f44bbd42009d324dd68b89c50eda11ee789b6dbfbc56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3535352e7376673f6c6f676f3d7265616374267374796c653d666c6174)\
