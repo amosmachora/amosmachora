@@ -1,10 +1,8 @@
-![cooltext419768987441297](https://user-images.githubusercontent.com/81857018/191554431-2891de67-87d1-4d10-b609-863f53a96d76.png)
-### Hi there 👋 Im Amos 🐉.
+<img align="center" src="https://user-images.githubusercontent.com/81857018/191554431-2891de67-87d1-4d10-b609-863f53a96d76.png" >
+Hi there 👋 Im Amos 🐉.
 Im a full stack software developer 💯
 Im currently a student 📚 in the final year of campus 🎓
 
-Im currently learning spring and spring-boot.
-<img src="https://user-images.githubusercontent.com/81857018/191555550-20bacea6-c874-44b9-a403-5c7bda576046.png" width="40" height="40">
 
 🧨Tech Stack\
 ![github](https://camo.githubusercontent.com/ce7aea3ef843d8c5bf40de5525a6764a31e1cd1e53cbfcfa757d5fb6931dffdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731372e7376673f6c6f676f3d676974687562267374796c653d666c6174)\
@@ -17,6 +15,9 @@ Im currently learning spring and spring-boot.
 TypeScript\
 GraphQL\
 Spring and Springboot
+
+Im currently learning spring and spring-boot.
+<img align="center" src="https://user-images.githubusercontent.com/81857018/191555550-20bacea6-c874-44b9-a403-5c7bda576046.png" width="20" height="20">
 
 Hobbies 🎈\
 Im a fun of swimming 🥽 , watching movies 🎬 , playing video games 🎮 , reading and watching Manchester United 😈.
