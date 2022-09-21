@@ -7,7 +7,7 @@ Im currently learning spring and spring-boot.
 <img src="https://user-images.githubusercontent.com/81857018/191555550-20bacea6-c874-44b9-a403-5c7bda576046.png" width="40" height="40">
 
 Hobbies 🎈\
-Im a fun of swimming 🥽 , watching movies , reading and watching Manchester United 😈.
+Im a fun of swimming 🥽 , watching movies 🎬 , playing video games 🎮 , reading and watching Manchester United 😈.
 
 ⚡Fun Fact\
 I have read all Game Of thrones books.😮
