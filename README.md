@@ -1,11 +1,38 @@
 <img align="center" src="https://user-images.githubusercontent.com/81857018/191554431-2891de67-87d1-4d10-b609-863f53a96d76.png" >
-<ul>
-<li>Hi there 👋 Im Amos 🐉.</li>
-<li>Im a full stack software developer 💯</li>
-<li>Im currently a student 📚 in the final year of campus 🎓</li>
-<li>I have three years project and freelance experience in frontend web development</li>
-</ul>
 
+<table>
+  <tr>
+    <th> About Me</th>
+    <th>Tech Stack</th>
+  </tr>
+
+<tr>
+  <td width="70%">
+  <ul>
+    <li>Hi there 👋 Im Amos 🐉.</li>
+    <li>Im a full stack software developer 💯</li>
+    <li>Im currently a student 📚 in the final year of campus 🎓</li>
+    <li>I have three years project and freelance experience in frontend web development</li>
+  </ul>
+
+Hobbies 🎈
+
+  <ul>
+    <li>swimming 🥽</li>
+    <li>watching movies 🎬</li>
+    <li>video gaming 🎮</li>
+    <li>Manchester United 😈</li>
+  </ul>
+
+Fun Facts⚡
+
+  <ul>
+    <li>I have read all Game Of thrones books.😮</li>
+  </ul>
+
+  </td>
+
+  <td>
 🧨Tech Stack\
 ![github](https://camo.githubusercontent.com/ce7aea3ef843d8c5bf40de5525a6764a31e1cd1e53cbfcfa757d5fb6931dffdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731372e7376673f6c6f676f3d676974687562267374796c653d666c6174)\
 ![React](https://camo.githubusercontent.com/4cd63b0dea6d7fb2dc24f44bbd42009d324dd68b89c50eda11ee789b6dbfbc56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3535352e7376673f6c6f676f3d7265616374267374796c653d666c6174)\
@@ -16,27 +43,16 @@
 ![HTML5](https://camo.githubusercontent.com/862a369270964f7b3b4b4cc73ae9efe8905f7f6b39aa05ae453bee68d9559b34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333332e7376673f6c6f676f3d68746d6c35267374796c653d666c6174)\
 TypeScript\
 GraphQL\
-Spring and Springboot
+Spring and Spring-boot
 
-<ul>
 Currently learning 🚨
-<ul>
-<li>
-spring and spring-boot
-<img align="center" src="https://user-images.githubusercontent.com/81857018/191555550-20bacea6-c874-44b9-a403-5c7bda576046.png" width="20" height="20">
-</li>
-</ul>
-</ul>
 
-<ul>
-Hobbies 🎈\
-<ul>
-<li>swimming 🥽</li>
-<li>watching movies 🎬</li>
-<li>video gaming 🎮</li>
-<li>Manchester United 😈</li>
-</ul>
-</ul>
+  <ul>
+    <li>Spring and spring-boot <img align="center" src="https://user-images.githubusercontent.com/81857018/191555550-20bacea6-c874-44b9-a403-5c7bda576046.png" width="20" height="20">
+    </li>
+  </ul>
 
-⚡Fun Fact\
-I have read all Game Of thrones books.😮
+  </td>
+</tr>
+
+</table>
