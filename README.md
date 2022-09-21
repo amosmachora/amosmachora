@@ -3,6 +3,7 @@
 <li>Hi there 👋 Im Amos 🐉.</li>
 <li>Im a full stack software developer 💯</li>
 <li>Im currently a student 📚 in the final year of campus 🎓</li>
+<li>I have three years project and freelance experience in frontend web development</li>
 </ul>
 
 
