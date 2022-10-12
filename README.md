@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/81857018/191554431-2891de67-87d1-4d10-b609-863f53a96d76.png" >
+<img align="center" src="https://user-images.githubusercontent.com/81857018/195324898-58f2273b-037f-4bb7-b08f-eaa21223c659.png" >
 <table>
   <tr>
     <th>Languages & FrameWorks</th>
