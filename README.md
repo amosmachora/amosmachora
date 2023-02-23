@@ -65,9 +65,9 @@ practicing evidenced by my over 330 points on frontend mentor and 5KYU rating on
 ## Want some github statistics? :bar_chart:
 <details>
 <summary>View my recent activity on GitHub</summary>
-<div style="display:flex">
-<img src="https://github-readme-stats.vercel.app/api?username=amosmachora">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amosmachora&">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosmachora">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amosmachora" height="200">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amosmachora&" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosmachora" height="200">
 </div>
 </details>
