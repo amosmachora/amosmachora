@@ -66,8 +66,8 @@ practicing evidenced by my over 330 points on frontend mentor and 5KYU rating on
 <details>
 <summary>View my recent activity on GitHub</summary>
 <div style="display:flex">
-<img src="https://github-readme-stats.vercel.app/api?username=AmohPrince">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmohPrince&">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmohPrince">
+<img src="https://github-readme-stats.vercel.app/api?username=amosmachora">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amosmachora&">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosmachora">
 </div>
 </details>
