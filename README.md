@@ -1,1 +1,1 @@
-<a href="https://twitter.com/amos_machora"><img alt="Visit @amosmachora`s Portfolio" src="https://github.com/timolins/timolins/raw/master/assets/header.svg"/></a>
+<a href="https://twitter.com/amos_machora"><img alt="Visit @amosmachora`s Portfolio" src="https://github.com/amosmachora/amosmachora/blob/main/assets/header.svg"/></a>
